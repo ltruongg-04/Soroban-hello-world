@@ -38,13 +38,3 @@ Dự án này xây dựng một hệ thống định danh số và quản lý s�
 3. Nhấn "View Products" để xem, tìm kiếm, và xem chi tiết sản phẩm.
 4. Để ghi dữ liệu lên blockchain, cần cấu hình contract ID và tích hợp ký/gửi transaction.
 
-## Lưu ý bảo mật
-
-- Không chia sẻ private key.
-- Dữ liệu lưu trên localStorage chỉ tồn tại trên trình duyệt hiện tại.
-- Để lưu lâu dài hoặc chia sẻ, hãy xuất CSV hoặc tích hợp backend/IPFS.
-
-## English Summary
-
-This project is a demo for digital identity and e-commerce item tagging on Stellar Soroban. It allows users to create blockchain identities, register products, and manage/view/search products with a modern UI. Product data is stored in browser localStorage for demo purposes. For real blockchain writes, contract signing and transaction submission must be implemented.
-"# Digital-Identity" 
