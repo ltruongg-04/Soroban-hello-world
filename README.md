@@ -31,10 +31,3 @@ Dự án này xây dựng một hệ thống định danh số và quản lý s�
 - **@stellar/soroban-client**: kết nối và chuẩn bị giao dịch với Soroban.
 - **LocalStorage**: lưu dữ liệu sản phẩm tạm thời trên trình duyệt.
 
-## Hướng dẫn sử dụng
-
-1. Chạy dự án Astro (`npm run dev` hoặc `yarn dev`).
-2. Truy cập trang chủ để tạo định danh và đăng ký sản phẩm.
-3. Nhấn "View Products" để xem, tìm kiếm, và xem chi tiết sản phẩm.
-4. Để ghi dữ liệu lên blockchain, cần cấu hình contract ID và tích hợp ký/gửi transaction.
-
